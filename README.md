@@ -32,10 +32,11 @@
 
 ## check out my latest projects
 <p align="center">
-<a href="https://github.com/renanarimon/ML.git" target="_blank" rel="noopener noreferrer"> <img src="https://user-images.githubusercontent.com/77155986/147161958-08175281-bcc5-4cb3-93f0-d66cfcf293cc.png" alt="Python" height="200" style="vertical-align:top; margin:4px"> ML</a>
+<a href="https://github.com/renanarimon/ML.git" target="_blank" rel="noopener noreferrer"> <img src="https://user-images.githubusercontent.com/77155986/147161958-08175281-bcc5-4cb3-93f0-d66cfcf293cc.png" alt="Python" height="200" style="vertical-align:top; margin:4px"></a>
 <a href="https://github.com/renanarimon/OOP_Ex4.git" target="_blank" rel="noopener noreferrer"> <img src="https://user-images.githubusercontent.com/77155986/148262240-48715e55-fc7a-4af9-8484-bcb7d49405e6.png" alt="Python" height="200" style="vertical-align:top; margin:4px"></a>
  <a href="https://github.com/renanarimon/Bayes_Net.git" target="_blank" rel="noopener noreferrer"> <img src="https://user-images.githubusercontent.com/77155986/148262618-ad78ec14-eb40-4d8f-a841-99b51ebdcfe8.png" alt="Python" height="200" style="vertical-align:top; margin:4px"></a>
 </p>
+#### ML (sklearn)                    Pokemon Game (python)                       bayesian network
 
 
 
