@@ -1,5 +1,5 @@
 ### Hi there I'm renana 👋
-- 🌱 I'm a second year Student of CS & Math, Data Science and AI
+- 🌱 Third year student in Computer Science majoring in Data Science and AI
 - :school: Ariel University
 
 ## ✉️ Find me on:
