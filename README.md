@@ -1,5 +1,6 @@
 ### Hi there I'm renana 👋
-- 🌱 Third year student in Computer Science majoring in Data Science and AI
+- Software developer at P.V.I.
+- 🌱 B.Sc in Computer Science majoring in Data Science and AI
 - :school: Ariel University
 
 ## ✉️ Find me on:
