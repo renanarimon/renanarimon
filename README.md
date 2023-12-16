@@ -25,11 +25,7 @@
 </p>
 
 
-![](https://visitor-badge.laobi.icu/badge?page_id=renanarimon.renanarimon)
-[![Github](https://img.shields.io/github/followers/renanarimon?label=Follow&style=social)](https://github.com/CharalambosIoannou)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanarimon&theme=tokyonight)
-![Renana's GitHub stats](https://github-readme-stats.vercel.app/api?username=renanarimon&show_icons=true&theme=tokyonight)
 
 ## check out my latest projects
 
@@ -63,7 +59,11 @@
  
 
 
+![](https://visitor-badge.laobi.icu/badge?page_id=renanarimon.renanarimon)
+[![Github](https://img.shields.io/github/followers/renanarimon?label=Follow&style=social)](https://github.com/CharalambosIoannou)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanarimon&theme=tokyonight)
+![Renana's GitHub stats](https://github-readme-stats.vercel.app/api?username=renanarimon&show_icons=true&theme=tokyonight)
 
 
 
