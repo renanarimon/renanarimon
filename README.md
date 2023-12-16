@@ -32,18 +32,26 @@
 ![Renana's GitHub stats](https://github-readme-stats.vercel.app/api?username=renanarimon&show_icons=true&theme=tokyonight)
 
 ## check out my latest projects
-<p align="center">
+
+  <p align="center">
  <div class = "row">
   <div class = "column">
-   <a href="https://github.com/renanarimon/ML.git" target="_blank" rel="noopener noreferrer"> 
-   <img src="https://user-images.githubusercontent.com/77155986/147161958-08175281-bcc5-4cb3-93f0-d66cfcf293cc.png" alt="Python" height="200" style="vertical-align:top; margin:4px"><div class="Bottom Left">ML (sklearn)</div></a>
-   
+   <a href="https://github.com/renanarimon/ProBogota-ChatBot.git" target="_blank" rel="noopener noreferrer"> 
+   <img src="https://github.com/renanarimon/renanarimon/assets/77155986/4e6ca415-0e63-4d0f-b85b-493c9b6c8ae2.png" alt="Python" height="200" style="vertical-align:top; margin:4px"><div class="Bottom Left">NLP - Text classification</div></a>   
   </div>
 
   <div class = "column">
    <a href="https://github.com/renanarimon/OOP_Ex4.git" target="_blank" rel="noopener noreferrer"> <img src="https://user-images.githubusercontent.com/77155986/148262240-48715e55-fc7a-4af9-8484-bcb7d49405e6.png" alt="Python" height="180" style="vertical-align:top; margin:4px"><div class="Bottom Left">Pokemon Game (python)</div></a>
    
   </div>
+  
+<p align="center">
+ <div class = "row">
+  <div class = "column">
+   <a href="https://github.com/renanarimon/ML.git" target="_blank" rel="noopener noreferrer"> 
+   <img src="https://user-images.githubusercontent.com/77155986/147161958-08175281-bcc5-4cb3-93f0-d66cfcf293cc.png" alt="Python" height="200" style="vertical-align:top; margin:4px"><div class="Bottom Left">ML (sklearn)</div></a>   
+  </div>
+
 
   <div class = "column">
    <a href="https://github.com/renanarimon/Bayes_Net.git" target="_blank" rel="noopener noreferrer"> <img src="https://user-images.githubusercontent.com/77155986/148262618-ad78ec14-eb40-4d8f-a841-99b51ebdcfe8.png" alt="Python" height="180" style="vertical-align:top; margin:4px"><div class="Bottom Left">bayesian network (java)</div></a>
