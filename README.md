@@ -14,16 +14,17 @@
 ## 🧰 Languages and Tools:
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://user-images.githubusercontent.com/77155986/148258817-258d4e75-2cdf-4f94-b84b-55ef5a9b5334.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://user-images.githubusercontent.com/77155986/148258817-258d4e75-2cdf-4f94-b84b-55ef5a9b5334.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/renanarimon/renanarimon/assets/77155986/012c2ec2-7728-4035-bbcc-6f49c03d61ea.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/renanarimon/renanarimon/assets/77155986/0d9701d6-c8bd-40ae-8df1-e3666d8eb6ad.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="https://user-images.githubusercontent.com/77155986/148259578-a6c6de99-9bfa-4709-b290-d1e4ef78131c.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="https://user-images.githubusercontent.com/77155986/148260382-31391768-c6d7-400f-99c6-c411bb87d592.jpg" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="https://user-images.githubusercontent.com/77155986/148259312-87c40877-be91-43ab-853a-4c80fc72be35.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="https://user-images.githubusercontent.com/77155986/148259662-40985412-590c-44bc-bd92-c14cfae3fb74.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="https://user-images.githubusercontent.com/77155986/148259783-7ad0a4dc-3511-41b7-ac9a-9f156da94b90.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/renanarimon/renanarimon/assets/77155986/40019675-9d40-482c-8d95-7a9077170fec.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="https://user-images.githubusercontent.com/77155986/148259989-29bedce7-d659-477f-b4ab-d423867f571a.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 
 </p>
-
 
 
 
